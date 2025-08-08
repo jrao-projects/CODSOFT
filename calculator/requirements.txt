@@ -1,5 +1,0 @@
-# This calculator uses only Python standard library modules
-# No additional packages need to be installed
-
-# Python version requirement
-python>=3.6
