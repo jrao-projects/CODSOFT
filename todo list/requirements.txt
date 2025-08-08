@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+cairosvg>=2.5.2
+Pillow>=9.0.0
+py2exe>=0.10.4.0 ; sys_platform == 'win32'
