@@ -1,0 +1,6 @@
+
+ This game primarily uses tkinter which comes with Python
+ No additional packages are required for basic functionality
+
+ Optional: For enhanced sound effects (not implemented in this version)
+ pygame>=2.0.0
